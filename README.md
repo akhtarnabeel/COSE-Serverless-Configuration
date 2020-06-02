@@ -7,4 +7,5 @@ Serverless  computing  has  emerged  as  a  new  compelling paradigm for the dep
 ### Publications:
 - Nabeel Akhtar, Ali Raza, Vatche Ishakian and Ibrahim Matta<br>
 **COSE: Configuring Serverless Functions using Statistical Learning**<br>
-To appear at *IEEE International Conference on Computer Communications (INFOCOM), 2020, Beijing, China, April 2020*
+*IEEE International Conference on Computer Communications (INFOCOM), 2020*
+[\[PDF\]](cose.pdf)
