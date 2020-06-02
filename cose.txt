@@ -1,0 +1,8 @@
+@INPROCEEDINGS{cose_2020,
+    AUTHOR="Nabeel Akhtar and Ali Raza and Vatche Ishakian and Ibrahim Matta",
+    TITLE="COSE: Configuring Serverless Functions using Statistical Learning",
+    BOOKTITLE="INFOCOM 2020",
+    ADDRESS="",
+    DAYS="6-9",
+    MONTH="july",
+    YEAR="2020",
