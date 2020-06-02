@@ -5,4 +5,5 @@
     ADDRESS="",
     DAYS="6-9",
     MONTH="july",
-    YEAR="2020",
+    YEAR="2020"
+}
